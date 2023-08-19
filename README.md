@@ -1,20 +1,20 @@
 # Исследование данных о зарплатах в сфере Data Science 
 ## Оглавление
-[1. Описание проекта](https://github.com/dariazvonareva/Project_3_EDA_Booking_reviews/blob/main/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/dariazvonareva/Project_DS_Job_Salaries/blob/main/README.md#Описание-проекта)
 
-[2. Какой кейс решаем](https://github.com/dariazvonareva/Project_3_EDA_Booking_reviews/blob/main/README.md#Описание-проекта)
+[2. Какой кейс решаем](https://github.com/dariazvonareva/Project_DS_Job_Salaries/blob/main/README.md#Описание-проекта)
 
-[3. Краткая информация о данных](https://github.com/dariazvonareva/Project_3_EDA_Booking_reviews/blob/main/README.md#Описание-проекта)
+[3. Краткая информация о данных](https://github.com/dariazvonareva/Project_DS_Job_Salaries/blob/main/README.md#Описание-проекта)
 
-[4. Этапы проекта](https://github.com/dariazvonareva/Project_3_EDA_Booking_reviews/blob/main/README.md#Этапы-проекта)
+[4. Этапы проекта](https://github.com/dariazvonareva/Project_DS_Job_Salaries/blob/main/README.md#Этапы-проекта)
 
-[5. Результаты](https://github.com/dariazvonareva/Project-2_HeadHunter/blob/main/README.md#Результаты)
+[5. Результаты](https://github.com/dariazvonareva/Project_DS_Job_Salaries/blob/main/README.md#Результаты)
 
 ### Описание проекта
 
 HR-агентство изучает тренды на рынке труда в IT. Компания хочет провести исследование на основе данных о зарплатах в сфере Data Science за 2020–2022 годы и получить некоторые выводы.
 
-:arrow_up:[к оглавлению](https://github.com/dariazvonareva/Project_3_EDA_Booking_reviews/blob/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/dariazvonareva/Project_DS_Job_Salaries/blob/main/README.md#Оглавление)
 
 ### Какой кейс решаем
 
@@ -74,5 +74,5 @@ HR-агентство изучает тренды на рынке труда в 
 - Выводы по каждому этапу оформляются в формате Markdown в отдельной ячейке.
 
 ### Результаты:
-[Ноутбук с выполненными заданиями и выводами](https://github.com/dariazvonareva/Project_3_EDA_Booking_reviews/blob/main/project-3-hotels-eda-feature-engineering.ipynb)
-:arrow_up:[к оглавлению](https://github.com/dariazvonareva/Project_3_EDA_Booking_reviews/blob/main/README.md#Оглавление)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/dariazvonareva/Project_DS_Job_Salaries/blob/main/Project_DS_Job_Salaries%C2%A0%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.ipynb)
+:arrow_up:[к оглавлению](https://github.com/dariazvonareva/Project_DS_Job_Salaries/blob/main/README.md#Оглавление)
